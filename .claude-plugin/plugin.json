@@ -1,0 +1,9 @@
+{
+  "name": "wedding-planner",
+  "version": "0.1.0",
+  "description": "Turns any project tracker into a wedding planning system: spin up a full board of epics and tasks in one shot, then run it day-to-day in plain English instead of clicking through the UI.",
+  "author": {
+    "name": "Darshan Talewar"
+  },
+  "keywords": ["wedding", "project-management", "jira", "linear", "asana", "planning"]
+}
